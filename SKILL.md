@@ -13,7 +13,7 @@ description: Apply the approved Kangsheng Electronics website/independent-store 
 - 左上副文案：`CONNECT A BRIGHTER POSSIBILITY`。
 - 右上：`PROFESSIONAL CONNECTOR SOLUTIONS`。
 - 左下：`RELIABLE / PRECISE / INNOVATIVE`。
-- 右下官网网址：`WWW.KANGSHENG.COM`；不得自行替换或猜测其他域名。
+- 右下官网网址：`KANGSHENGELEC.COM`；不得自行替换或猜测其他域名。
 - 整体：白底、浅冰蓝科技感、低饱和几何斜线、半透明 K 元素。
 - 版式、位置、颜色、字体风格、装饰、文字内容均固定。
 

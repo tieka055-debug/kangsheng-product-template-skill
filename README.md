@@ -39,5 +39,5 @@ git clone https://github.com/tieka055-debug/kangsheng-product-template-skill.git
 
 - 母版：`reference/模板参考图.png`
 - 画布：1254×1254 px
-- 官网：`WWW.KANGSHENG.COM`
+- 官网：`KANGSHENGELEC.COM`
 - 原则：只替换中央产品，品牌版式与文字不得重绘或改动。
